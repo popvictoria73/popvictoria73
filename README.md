@@ -3,7 +3,7 @@
 ## A passionate full stack web developer from India
 - 🌱 I’m currently learning **AWS, VueJS**
 
-- 👨‍💻 All of my projects are available at [popvictoria73.github.io](popvictoria73.github.io)
+- 👨‍💻 All of my projects are available at [popvictoria73.github.io](https://popvictoria73.github.io/)
 
 - 📝 I regularly write articles on [https://reddyuppathi.wordpress.com](https://reddyuppathi.wordpress.com)
 
