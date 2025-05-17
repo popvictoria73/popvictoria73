@@ -1,15 +1,15 @@
 ### Hi 👋, I'm Reddy
 
-## A passionate full stack web developer from India
-- 🌱 I’m currently learning **AWS, VueJS**
+## A passionate full stack developer
+- 🌱 I’m currently learning **AI, GenAI, Agents, AWS**
 
 - 👨‍💻 All of my projects are available at [popvictoria73.github.io](https://popvictoria73.github.io/)
 
 - 📝 I regularly write articles on [https://reddyuppathi.wordpress.com](https://reddyuppathi.wordpress.com)
 
-- 💬 Ask me about **Angular, Node , HTML , CSS , SCSS, React , NgRx, Redux**
+- 💬 Ask me about **Angular, Node , React , HTML5 , CSS3 , Tailwind, SCSS, Redux**
 
-- 📄 Know about my experiences @ [profile](https://popvictoria73.github.io/assets/Reddy_Senior_WebDev_7_Yrs_Exp_Resume.pdf)
+- 📄 Know about my experiences @ [profile](https://popvictoria73.github.io/assets/Reddy_MEANStack_9Yrs.pdf)
 
 - ⚡ Fun fact **I enjoy most of my time being outdoors.Nature lover, Long run, Yoga Practices, Swimming.**
 
