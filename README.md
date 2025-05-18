@@ -3,13 +3,13 @@
 ## A passionate full stack developer
 - 🌱 I’m currently learning **AI, GenAI, Agents, AWS**
 
-- 👨‍💻 All of my projects are available at [popvictoria73.github.io](https://popvictoria73.github.io/)
+- 👨‍💻 All of my projects are available at [uppathidev.github.io](https://uppathidev.github.io/)
 
 - 📝 I regularly write articles on [https://reddyuppathi.wordpress.com](https://reddyuppathi.wordpress.com)
 
 - 💬 Ask me about **Angular, Node , React , HTML5 , CSS3 , Tailwind, SCSS, Redux**
 
-- 📄 Know about my experiences @ [profile](https://popvictoria73.github.io/assets/Reddy_MEANStack_9Yrs.pdf)
+- 📄 Know about my experiences @ [profile](https://uppathidev.github.io/assets/Reddy_FullStack_9+Years_Exp.pdf)
 
 - ⚡ Fun fact **I enjoy most of my time being outdoors.Nature lover, Long run, Yoga Practices, Swimming.**
 
